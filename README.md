@@ -1,6 +1,4 @@
-# Project Title
-
-hangman - Python
+# Hangman - Python
 
 ## About
 
