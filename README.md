@@ -1,5 +1,3 @@
 # Hangman - Python
 
-## About
-
-Hangman game in python language.
+## Hangman game in python language
